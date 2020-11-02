@@ -1,0 +1,12 @@
+{
+  "name": "mocha-event-leak",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "mocha index.test.js --watch"
+  },
+  "dependencies": {
+    "mocha": "^8.2.0"
+  }
+}
